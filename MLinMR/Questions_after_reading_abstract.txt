@@ -1,0 +1,15 @@
+What is the exact problem with motion in MR?
+What is the state of the art method (5-10 min reconstruction, but better quality maybe??)
+Explain angiography
+What does "non-rigid" mean?
+What is a GAN?
+What is a deep residual network generator? What is residual?
+What is a perceptual loss network?
+What does isotropic and anisotrpoic mean?
+Is there a problem that the compared chort was retrospective downsampled?
+Is 66 samples a significant samplesize?
+Why is the length of the coronary arteries a meassure of quality?
+"Improved vessel sharpness and length compared to LR-CMRA" -> And how is it about HR-CMRA?
+What does "Good generalization to input resolution and image/patch level processing was found" mean?
+Is recovery of coronary stenosis the only relevant thing?
+What does "reducing predictable scan time" mean?
