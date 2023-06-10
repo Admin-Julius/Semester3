@@ -1,0 +1,19 @@
+Susan B. Yeon, Adeel Sabir, Melvin Clouse, Pedro O. Martinezclark, Dana C. Peters, Thomas H. Hauser, C. Michael Gibson, Reza Nezafat, David Maintz, Warren J. Manning, René M. Botnar,
+Delayed-Enhancement Cardiovascular Magnetic Resonance Coronary Artery Wall Imaging: Comparison With Multislice Computed Tomography and Quantitative Coronary Angiography,
+Journal of the American College of Cardiology,
+Volume 50, Issue 5,
+2007,
+Pages 441-447,
+ISSN 0735-1097,
+https://doi.org/10.1016/j.jacc.2007.03.052.
+(https://www.sciencedirect.com/science/article/pii/S0735109707015513)
+Abstract: Objectives
+We examined whether delayed-enhancement cardiovascular magnetic resonance (DE-CMR) coronary artery wall imaging correlated with atherosclerosis detected by using multislice computed tomography (MSCT) and quantitative coronary angiography (QCA).
+Background
+The use of DE-CMR coronary vessel wall imaging may provide a noninvasive method to assess diseased coronary vessel walls.
+Methods
+We performed DE-CMR coronary artery wall imaging in 14 patients with cardiovascular risk factors and 6 healthy subjects without risk factors.
+Results
+A greater prevalence of strong DE was noted with greater MSCT evidence of disease, with DE in 2 (7%) of 30 coronary segments with no plaque by MSCT, in 1 (10%) of 10 segments with noncalcified plaque on MSCT, and in 16 (36%) of 44 segments with calcifications by MSCT (p = 0.009, adjusted p = 0.035). Delayed enhancement was observed in 8 (53%) of 15 segments with >20% coronary artery stenosis by QCA but also in 12 (15%) of 80 segments without angiographically apparent coronary disease (p = 0.004, adjusted p = 0.01).
+Conclusions
+The use of DE-CMR allowed us to identify areas of DE that correlate with severity of atherosclerosis by MSCT and QCA. This novel approach may be useful for the assessment of coronary vessel wall in patients with suspected coronary artery disease.
